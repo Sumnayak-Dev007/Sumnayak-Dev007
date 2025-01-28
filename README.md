@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 - **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 - **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
-- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
+- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)  ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
 
 ## 📊 GitHub Stats
 ![Sumnayak-Dev007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumnayak-Dev007&show_icons=true&theme=radical)
