@@ -5,11 +5,10 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[mention any new technology or framework you are learning]**
-- 👯 I’m looking to collaborate on **[mention any projects you are interested in collaborating on]**
-- 💬 Ask me about **[mention any topics you are knowledgeable about]**
-- 📫 How to reach me: **[mention your contact information or social media handles]**
-- ⚡ Fun fact: **[mention a fun fact about yourself]**
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me any Queries relavance to my repository
+- 📫 How to reach me: prof.sumanatwork001@gmail.com
+- ⚡ Fun fact: I will tell you laterrrrr
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java), C, C++
@@ -39,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 
 ## 📫 How to Reach Me
-- **Email:** prof.sumanatwork@gmail.com
+- **Email:** prof.sumanatwork001@gmail.com
 - **LinkedIn:** [Sumnayak-Dev007](https://www.linkedin.com/in/sumnayak-dev007/)
 - **Twitter:** [@Sumnayak_007](https://twitter.com/Sumnayak_007)
 
