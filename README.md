@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Sumnayak-Dev007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumnayak-Dev007&show_icons=true&theme=radical)
 
 ## 🔥 My Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sumnayak-Dev007)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sumnayak-Dev007" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sumnayak-Dev007)](https://git.io/streak-stats)
 
