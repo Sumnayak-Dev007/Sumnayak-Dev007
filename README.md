@@ -47,9 +47,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - Cloud Computing (AWS)
 
 ## 🚀 Projects
-- **Project 1:** [Blogging App]([https://github.com/Sumnayak-Dev007/project-1](https://github.com/Sumnayak-Dev007/Render-Blog.git))
+- **Project 1:** [Blogging App](https://github.com/Sumnayak-Dev007/Render-Blog.git).
   - Deployed on Render with PostgreSQL
-- **Project 2:** [Weather Forecast](https://github.com/Sumnayak-Dev007/project-2)
+- **Project 2:** [Weather Forecast](https://github.com/Sumnayak-Dev007/Django-Weather-App.git)
   - Know weather conditions of your city 
 
 ## 💬 Ask Me About
