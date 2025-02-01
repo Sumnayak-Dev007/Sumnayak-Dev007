@@ -1,4 +1,4 @@
-# Hi there, I'm Sumnayak-Dev007 👋
+# Hi there, I'm Suman Nayika
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 📫 How to reach me: prof.sumanatwork001@gmail.com
 - ⚡ Fun fact: I will tell you laterrrrr
 
-## 🛠️ Technologies & Tools
+## 📊 Technologies & Tools
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java), C, C++
 - **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react), Tailwind CSS, Bootstrap
 - **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
