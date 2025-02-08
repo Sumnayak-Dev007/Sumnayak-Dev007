@@ -29,9 +29,7 @@ I'm a passionate developer With a problem-solving mindset who loves to explore n
 ## 📈 My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumnayak-Dev007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 🤝 Let's Connect on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanknayak/) 
