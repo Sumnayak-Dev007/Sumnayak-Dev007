@@ -1,5 +1,5 @@
 # Hi there, I'm Suman Nayak
-I'm a passionate developer who loves to explore new technologies and build innovative projects.
+I'm a passionate developer who loves to explore new technologies and build innovative systems
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
