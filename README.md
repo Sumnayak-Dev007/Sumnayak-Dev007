@@ -14,7 +14,8 @@ I'm a passionate developer With a problem-solving mindset who loves to explore n
 
 ## 📊 Technologies & Tools
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java), C, C++
-- **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react), Tailwind CSS, Bootstrap
+- **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react), ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 - **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
 - **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)  ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
 
