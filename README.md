@@ -34,17 +34,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanknayak/) 
 
 
 
 
 ## 📫 How to Reach Me
 - **Email:** prof.sumanatwork001@gmail.com
-- **LinkedIn:** [Sumnayak-Dev007](https://www.linkedin.com/in/sumnayak-dev007/)
-- **Twitter:** [@Sumnayak_007](https://twitter.com/Sumnayak_007)
-
+- **LinkedIn:** [Sumnayak-Dev007](https://www.linkedin.com/in/sumanknayak/)
+- 
 ## 🌱 Currently Learning
 - Advanced JavaScript frameworks
 - Cloud Computing (AWS)
