@@ -5,10 +5,12 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects.
 
 ## 🚀 About Me
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on Python Applications 
 - 💬 Ask me any Queries relavance to my repository
 - 📫 How to reach me: prof.sumanatwork001@gmail.com
-- ⚡ Fun fact: I will tell you laterrrrr
+- ⚡ Fun fact: Programmers prefer dark mode because light attracts bugs🐞
+
+
 
 ## 📊 Technologies & Tools
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java), C, C++
