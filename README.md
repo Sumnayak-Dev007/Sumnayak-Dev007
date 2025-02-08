@@ -13,7 +13,9 @@ I'm a passionate developer With a problem-solving mindset who loves to explore n
 
 
 ## 📊 Technologies & Tools
-- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java), C, C++
+- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java), ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&borderRadius=20),![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&borderRadius=20)
+
+
 - **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react), ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&borderRadius=20), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&borderRadius=20) ,
 
 
