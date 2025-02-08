@@ -1,11 +1,10 @@
 # Hi there, I'm Suman Nayak
-I am a full-stack developer passionate about building and designing scalable web applications. With expertise in Django, Tailwind CSS, and system architecture, I specialize in creating intuitive user interfaces, optimizing backend performance, and ensuring seamless integrations.
+I'm a passionate developer who loves to explore new technologies and build innovative projects.
 
-I have experience in both frontend and backend development, allowing me to craft dynamic, responsive web solutions while implementing efficient database management and deployment strategies. I’m skilled in hosting solutions like EC2 and InfinityFree, setting up and maintaining robust server environments.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects.
+I'm a passionate developer who loves to explore new technologies and build innovative projects.
 
 ## 🚀 About Me
 - 👯 I’m looking to collaborate on Python Applications 
