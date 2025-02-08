@@ -1,4 +1,4 @@
-# Hi there, I'm Suman Nayika
+# Hi there, I'm Suman Nayak
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
 
