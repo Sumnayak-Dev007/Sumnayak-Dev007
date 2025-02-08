@@ -4,8 +4,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
 
-I'm a passionate developer who loves to explore new technologies and build innovative projects.
-
 ## 🚀 About Me
 - 👯 I’m looking to collaborate on Python Applications 
 - 💬 Ask me any Queries relavance to my repositories
