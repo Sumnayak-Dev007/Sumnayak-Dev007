@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 - 👯 I’m looking to collaborate on Python Applications 
-- 💬 Ask me any Queries relavance to my repository
+- 💬 Ask me any Queries relavance to my repositories
 - 📫 How to reach me: prof.sumanatwork001@gmail.com
 - ⚡ Fun fact: Programmers prefer dark mode because light attracts bugs🐞
 
