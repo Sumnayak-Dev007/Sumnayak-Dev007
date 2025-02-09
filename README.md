@@ -2,8 +2,6 @@
 I'm a passionate developer With a problem-solving mindset who loves to explore new technologies and build innovative systems
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
-
 ## 🚀 About Me
 - 👯 I’m looking to collaborate on Python Applications 
 - 💬 Ask me any Queries relavance to my repositories
@@ -64,5 +62,6 @@ I'm a passionate developer With a problem-solving mindset who loves to explore n
 I love solving puzzles and playing chess in my free time.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Sumnayak-Dev007&color=blue)
 
 ⭐️ From [Sumnayak-Dev007](https://github.com/Sumnayak-Dev007)
