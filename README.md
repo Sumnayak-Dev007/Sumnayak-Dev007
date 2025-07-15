@@ -24,9 +24,6 @@ I'm a passionate developer With a problem-solving mindset who loves to explore n
 ## 📊 GitHub Stats
 ![Sumnayak-Dev007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumnayak-Dev007&show_icons=true&theme=radical)
 
-## 🔥 My Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sumnayak-Dev007)](https://git.io/streak-stats)
-
 
 ## 📈 My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumnayak-Dev007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
